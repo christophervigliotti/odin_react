@@ -24,14 +24,17 @@ Aug 18
         2. Close all tags.
         3. camelCase Most things.
             JSX turns into JavaScript, and attributes of elements become keys of JavaScript objects, so you can’t use dashes or reserved words such as class. Because of this, many HTML attributes are written in camelCase. Instead of stroke-width, you’d use strokeWidth, and instead of class you’d use className.
+
+    get a sample app rolling for this lesson
     
-    npm create vite@latest what-is-jsx -- --template react
-    (cd into the dir)
-    npm install
-    then
-    >>> RESUME HERE TOMORROW >>> npm run dev
+        npm create vite@latest what-is-jsx -- --template react
+        (cd into the dir)
+        npm install
+        then
+        npm run dev
 
     Converting HTML to JSX
+
         <h1>Test title</h1>
         <svg>
             <circle cx="25" cy="75" r="20" stroke="green" stroke-width="2" />
@@ -39,6 +42,13 @@ Aug 18
         <form>
             <input type="text">
         </form>
+
+        done! (see code)
+
+    Assignment
+
+        RESUME HERE TOMORROW
+
 ```
 
 ## React Components
