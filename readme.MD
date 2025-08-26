@@ -7,9 +7,27 @@ https://www.theodinproject.com/paths/full-stack-javascript/courses/react
 
 ## section_title
 ```
+npm create vite@latest lesson-name -- --template react
+cd lesson-name && npm install && npm run dev
+
 MMM DD
     go_here
 ```
+
+## Rendering Techniques
+```
+npm create vite@latest rendering-techniques -- --template react
+cd rendering-techniques && npm install && npm run dev
+
+Aug 26
+    Now that we have learned how JSX works and how to write it, this lesson will cover how we can render multiple elements and conditionally render UI in JSX.
+
+    You will learn 
+        Render a list of elements/components in JSX.
+        Conditionally render UI.
+
+    
+````
 
 ## What is JSX?
 https://www.theodinproject.com/lessons/node-path-react-new-what-is-jsx
@@ -46,7 +64,19 @@ Aug 18
     Assignment
         Aug 25
             1. done
-            2. 
+            2. Aug 26 done
+    Knowledge check
+        1. What is JSX?
+            it's a syntax extension for JavaScript that lets you write HTML-esque markup
+        2. Why do we use JSX?
+            to be more concise 
+            allows you to separate concerns for both rendering logic and content for a given thing in one place (a component)
+        3. What are the three rules of JSX?
+            1. Return a single root element, often <></> or <div></div>
+            2. close all tags
+            3. camelCase MOST things
+        4. How do you reference a dynamic value inside of your JSX?
+
 
 ```
 
@@ -262,4 +292,4 @@ Knowledge check
 
 ```
 
-Hi, honey!
+Sup?

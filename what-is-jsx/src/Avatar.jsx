@@ -24,6 +24,10 @@ export default function Avatar() {
             className="avatar"
             src={avatar}
             alt={description}
+            style={{
+                borderRadius: '50%',
+                width: '150px',
+                height: '150px'}}
             />
             <p>
                 {description}<br />{description}<br />
