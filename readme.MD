@@ -34,7 +34,6 @@ Aug 18
         npm run dev
 
     Converting HTML to JSX
-
         <h1>Test title</h1>
         <svg>
             <circle cx="25" cy="75" r="20" stroke="green" stroke-width="2" />
@@ -42,12 +41,12 @@ Aug 18
         <form>
             <input type="text">
         </form>
-
         done! (see code)
 
     Assignment
-
-        RESUME HERE TOMORROW
+        Aug 25
+            1. done
+            2. 
 
 ```
 
