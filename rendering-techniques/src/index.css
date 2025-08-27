@@ -66,3 +66,12 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+
+ul,li {
+  text-align:'left';
+  list-style-position: inside;
+  padding:'0';
+  margin:'0'; 
+  width:'150px';
+}

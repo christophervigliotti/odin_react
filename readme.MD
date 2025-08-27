@@ -26,6 +26,21 @@ Aug 26
         Render a list of elements/components in JSX.
         Conditionally render UI.
 
+    Aug 27 examples gtg, found in found in rendering-techniques App.jsx
+
+    Assignment
+
+        Aug 28 continue here
+        1 The React documentation has an excellent guide to conditional rendering. Strengthen your understanding by reading through it and tackling all of the examples!
+            url 
+                https://www.theodinproject.com/lessons/node-path-react-new-rendering-techniques
+            my work 
+                found in rendering-techniques App.jsx
+
+        2 From the same docs, explore more on what you can do with lists by working through the Rendering Lists article. You don’t have to worry about the last part on keys, since we will be learning about them in the next lesson.
+
+    Knowledge Check 
+
     
 ````
 
