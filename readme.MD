@@ -1,12 +1,13 @@
-# Odin React 
-https://www.theodinproject.com/paths/full-stack-javascript/courses/react
+# Learn React
+* Odin React Courses https://www.theodinproject.com/paths/full-stack-javascript/courses/react
+* ReactJS Quizzes - https://www.geeksforgeeks.org/reactjs/practice-react-online/
 
-## See Also
+## Odin React
 
-    ReactJS Quizzes - https://www.geeksforgeeks.org/reactjs/practice-react-online/
-
-## section_title
+### lesson-name
 ```
+(merge previous lesson when done and 100% functional)
+git checkout -b lesson-name
 npm create vite@latest lesson-name -- --template react
 cd lesson-name && npm install && npm run dev
 
@@ -14,7 +15,7 @@ MMM DD
     go_here
 ```
 
-## Rendering Techniques
+### Rendering Techniques
 ```
 npm create vite@latest rendering-techniques -- --template react
 cd rendering-techniques && npm install && npm run dev
@@ -30,12 +31,15 @@ Aug 26
 
     Assignment
 
-        Aug 28 continue here
         1 The React documentation has an excellent guide to conditional rendering. Strengthen your understanding by reading through it and tackling all of the examples!
             url 
                 https://www.theodinproject.com/lessons/node-path-react-new-rendering-techniques
             my work 
                 found in rendering-techniques App.jsx
+
+            Aug 28 continue at lesson 1 heading 'Logical AND operator (&&)'
+            Aug 28 continue at lesson 1 heading 'Logical AND operator (&&)'
+            Aug 28 continue at lesson 1 heading 'Logical AND operator (&&)'
 
         2 From the same docs, explore more on what you can do with lists by working through the Rendering Lists article. You don’t have to worry about the last part on keys, since we will be learning about them in the next lesson.
 
@@ -44,7 +48,7 @@ Aug 26
     
 ````
 
-## What is JSX?
+### What is JSX?
 https://www.theodinproject.com/lessons/node-path-react-new-what-is-jsx
 ```
 Aug 18
@@ -95,7 +99,7 @@ Aug 18
 
 ```
 
-## React Components
+### React Components
 https://www.theodinproject.com/lessons/node-path-react-new-react-components 
 ```
 Notes
@@ -242,7 +246,7 @@ Notes
 
 
 ```
-## Setting Up A React Environment
+### Setting Up A React Environment
 https://www.theodinproject.com/lessons/node-path-react-new-setting-up-a-react-environment
 
 ```
