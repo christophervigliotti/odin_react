@@ -4,18 +4,9 @@
 
 ## Odin React
 
-### lesson-name
-```
-(merge previous lesson when done and 100% functional)
-git checkout -b lesson-name
-npm create vite@latest lesson-name -- --template react
-cd lesson-name && npm install && npm run dev
-
-MMM DD
-    go_here
-```
-
 ### Rendering Techniques
+
+#### Notes
 ```
 npm create vite@latest rendering-techniques -- --template react
 cd rendering-techniques && npm install && npm run dev
@@ -50,7 +41,10 @@ Aug 26
 
 ### What is JSX?
 https://www.theodinproject.com/lessons/node-path-react-new-what-is-jsx
+
+#### Notes
 ```
+
 Aug 18
     JSX is...
         JSX is a syntax extension for JavaScript that lets you write HTML-like markup inside a JavaScript file. It’s not required to use JSX when writing React components, but it does make writing them more concise.
@@ -101,7 +95,10 @@ Aug 18
 
 ### React Components
 https://www.theodinproject.com/lessons/node-path-react-new-react-components 
+
+#### Notes
 ```
+
 Notes
     7/29
         components
@@ -249,8 +246,10 @@ Notes
 ### Setting Up A React Environment
 https://www.theodinproject.com/lessons/node-path-react-new-setting-up-a-react-environment
 
+
+#### Notes
 ```
-Notes
+
     install nvm - https://github.com/nvm-sh/nvm?tab=readme-ov-file
     install node - https://github.com/nvm-sh/nvm?tab=readme-ov-file#usage
     start node
@@ -311,4 +310,14 @@ Knowledge check
 
 ```
 
-Sup?
+### lesson-name
+
+#### Notes
+```
+
+npm create vite@latest lesson-name -- --template react
+cd lesson-name && npm install && npm run dev
+
+MMM DD
+    go_here
+```
