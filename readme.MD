@@ -1,8 +1,9 @@
 # Learn React
-* Odin React Courses https://www.theodinproject.com/paths/full-stack-javascript/courses/react
-* ReactJS Quizzes - https://www.geeksforgeeks.org/reactjs/practice-react-online/
+1. Odin React Courses 
 
-## Odin React
+## 1. Odin React
+
+https://www.theodinproject.com/paths/full-stack-javascript/courses/react
 
 ### Rendering Techniques
 
@@ -321,3 +322,7 @@ cd lesson-name && npm install && npm run dev
 MMM DD
     go_here
 ```
+
+## 2. ReactJS Quizzes - https://www.geeksforgeeks.org/reactjs/practice-react-online/
+
+TODO
