@@ -1,5 +1,6 @@
 # Learn React
 1. Odin React Courses 
+2. ReactJS Quizzes
 
 ## 1. Odin React
 
@@ -28,12 +29,11 @@ Aug 26
                 https://www.theodinproject.com/lessons/node-path-react-new-rendering-techniques
             my work 
                 found in rendering-techniques App.jsx
-
-            Aug 28 continue at lesson 1 heading 'Logical AND operator (&&)'
-            Aug 28 continue at lesson 1 heading 'Logical AND operator (&&)'
-            Aug 28 continue at lesson 1 heading 'Logical AND operator (&&)'
+                Aug 28 resuming here at heading 'Logical AND operator (&&)'
 
         2 From the same docs, explore more on what you can do with lists by working through the Rendering Lists article. You don’t have to worry about the last part on keys, since we will be learning about them in the next lesson.
+            url
+                https://react.dev/learn/rendering-lists
 
     Knowledge Check 
 

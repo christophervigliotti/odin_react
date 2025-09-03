@@ -14,18 +14,26 @@ function Item({ name, isPacked }) {
             {isPacked ? name + ' ✅' : name + ' 😱'}
         </li>  
     );
+    return (
+        <li className="item">
+        {isPacked ? (
+            <del>
+            {name + ' ✅'}
+            </del>
+        ) : (
+            name + ' 😱😱😱'
+        )}
+        </li>
+    );
     */
-  return (
+
+    // Logical AND operator (&&)
+    // super concise 
+    return (
     <li className="item">
-      {isPacked ? (
-        <del>
-          {name + ' ✅'}
-        </del>
-      ) : (
-        name + ' 😱😱😱'
-      )}
+        {name} {isPacked && '✅'}
     </li>
-  );
+    );    
 }
 
 export default function PackingList() {
