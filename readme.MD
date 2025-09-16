@@ -13,6 +13,10 @@ https://www.theodinproject.com/paths/full-stack-javascript/courses/react
 npm create vite@latest rendering-techniques -- --template react
 cd rendering-techniques && npm install && npm run dev
 
+Sept 15 
+    I got totally sidetracked by Playwright (which is awesome), so I will 
+    restart this lesson tomorrow.
+
 Aug 26
     Now that we have learned how JSX works and how to write it, this lesson will cover how we can render multiple elements and conditionally render UI in JSX.
 
@@ -325,4 +329,4 @@ MMM DD
 
 ## 2. ReactJS Quizzes - https://www.geeksforgeeks.org/reactjs/practice-react-online/
 
-TODO
+HI ANGIE!  I hope u feel better soon.

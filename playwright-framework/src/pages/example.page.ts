@@ -6,12 +6,16 @@ export class ExampleClass{
         this.page=page
     }
     async typeSearchText(){
-       await this.page.type('input[name="q"]',"Playwright")
+       // await this.page.type('textarea[name="q"]',"Playwright");
+       await this.page.fill('input[name="q"]',"Playwright");
     }
     async pressEnter(){
        await this.page.keyboard.press('Enter');
     }
     async searchResult(){
-       return this.page.innerText('//h3[contains(text(),"Playwright:")]')
+       return this.page.innerText('//h1[contains(text(),"Search Results")]')
+    }
+    async theWholeDamnPage(){
+         return this.page.innerText('body');
     }
 }

@@ -4,7 +4,7 @@ const config: PlaywrightTestConfig = {
   use: {
     baseURL: 'http://google.com/',
     browserName: 'webkit',
-    headless: false,
+    headless: true,
   },
 };
 export default config;

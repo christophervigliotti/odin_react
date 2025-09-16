@@ -1,13 +1,17 @@
 {
   "name": "playwright-framework",
   "version": "1.0.0",
-  "description": "",
+  "description": "https://medium.com/geekculture/how-to-setup-playwright-end-to-end-test-automation-framework-f09478d18267",
   "license": "ISC",
   "author": "",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "fsevents": "^2.3.2",
+    "playwright-core": "^1.55.0"
   },
   "devDependencies": {
     "@playwright/test": "^1.55.0",
